@@ -5,7 +5,7 @@ Collection of Mini Projects illustrating concepts using the Manim library
 
 This project visualizes the Pythagorean Theorem using the [Manim](https://www.manim.community/) library. It demonstrates the relationship between the squares of the sides of a right-angled triangle (`a² + b² = c²`) through an animated construction.
 
-
+![DEMO](gifs/Pythagorean_theorem.gif)
 # Prerequisites
 
 - Python 3.9 or later
